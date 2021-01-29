@@ -36,17 +36,11 @@ typewrite-text: 안녕하세요 웹개발자 Junlight의 블로그입니다.
 
 # Experiences
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: SeedIT
+              company_logo: 시드아이티.png
+              company_url: http://seedit.co.kr/
+              designation: 개발자
+              description: 웹개발(SI)
               visibility: true
 
 # Education
