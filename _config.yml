@@ -51,11 +51,11 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: 인하공전.jfif
+                college_name: 인하공업전문대학교
+                college_url: https://cms.itc.ac.kr/site/inhatc/main.do
+                college_degree: 전문학사
+                description: 컴퓨터정보
                 visibility: true
 
 # Projects
