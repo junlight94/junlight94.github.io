@@ -47,3 +47,15 @@ xplor4r:
       - title: "facebook"
         url: "https://www.facebook.com/sujay.kundu2"
 
+junlight:
+  name: LeeJunYoung
+  username: junlight
+  site: http://github.com/junlight94
+  bio: "안녕하세요 웹개발자 Junlight입니다."
+  avatar: junlight.png
+  email: junlight94@gmail.com
+  social:
+      - title: "github"
+        url: "https://github.com/junlight94"
+      - title: "instagram"
+        url: "https://instagram.com/junlight_"
