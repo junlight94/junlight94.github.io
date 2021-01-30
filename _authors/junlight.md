@@ -3,7 +3,7 @@ name: LeeJunYoung
 username: junlight
 bio: "안녕하세요 웹개발자 Junlight입니다."
 site: http://github.com/junlight94
-avatar: junlight.png
+avatar: junlight.jpg
 email: junlight94@gmail.com
 social:
     - title: "github"
